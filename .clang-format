@@ -1,0 +1,20 @@
+
+# Основано на стиле: LLVM
+BasedOnStyle: LLVM
+# Ширина отступа: 4
+IndentWidth: 4
+# Выравнивание указателей: слева
+PointerAlignment: Left
+# Автоматическое выравнивание указателей: нет
+DerivePointerAlignment: true
+# Блоки include: сохранить
+IncludeBlocks: Preserve
+# Отступы для пространства имен: для всех
+NamespaceIndentation: All
+# Отступы для меток case: да
+IndentCaseLabels: true
+# Отступы для перенесенных имен функций: да
+IndentWrappedFunctionNames: true
+# Укажите, должны ли модификаторы доступа иметь собственный уровень отступа.: нет
+IndentAccessModifiers: false
+AccessModifierOffset: -4
